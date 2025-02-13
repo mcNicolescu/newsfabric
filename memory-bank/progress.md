@@ -4,3 +4,5 @@
 - The application has been initialized with: ng new neswfabric
 - ng serve works
 - Read projectBrief.md
+- Added sticky header with navigation bar
+- Added basic styling for the header
