@@ -1,0 +1,6 @@
+- Angular 19
+- TypeScript
+- Angular CLI
+- Responsive Design
+- Drag and Drop Library (Angular CDK or custom)
+- HTML/CSS

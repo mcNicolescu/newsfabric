@@ -1,0 +1,1 @@
+The application will be built using Angular 19. The architecture will follow a component-based structure, with a focus on reusability and maintainability. The drag-and-drop interface will likely be implemented using a library like Angular CDK or a custom solution. Responsive design will be a key consideration, and the application will be designed to work across various devices.

@@ -1,0 +1,6 @@
+- The developement depndencies have been installed
+- Typescript works
+- Angular Cli version 19
+- The application has been initialized with: ng new neswfabric
+- ng serve works
+- Read projectBrief.md

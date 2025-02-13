@@ -1,0 +1,40 @@
+# Project Guidelines
+
+## Documentation Requirements
+
+-   Update relevant documentation in /docs when modifying features
+-   Keep README.md in sync with new capabilities
+-   Maintain changelog entries in CHANGELOG.md
+
+## Code Style & Patterns
+
+-   Generate components using angular cli
+-   Use TypeScript
+
+## Testing Standards
+
+-   Unit tests required for business logic
+
+## Sensitive Files
+
+DO NOT read or modify:
+
+-   .env files
+-   \*_/config/secrets._
+-   \*_/_.pem
+    \*/node_modules
+-   Any file containing API keys, tokens, or credentials
+
+## Security Practices
+
+-   Never commit sensitive files
+-   Use environment variables for secrets
+-   Keep credentials out of logs and output
+
+## Project Intelligence
+
+-   Project initialized with Angular CLI.
+-   Angular version 19 is being used.
+-   The application name is newsfabric.
+-   The project structure is based on Angular's component-based architecture.
+-   The application will require a drag-and-drop interface.
